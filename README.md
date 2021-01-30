@@ -1,1 +1,2 @@
 # Predict-Dog-Cat
+This project is about Convulated Neural Network which is a supervised learning model to predict the outcome of a image -weather a dog or a cat.The basic library is Tensorflow and  keras. After training the model with 8000 cats and dogs in training sets and getting an accuracy of 91% while testing 2000 cats and dogs , I finally imported 2 images =1 of cat and other of dog and predicted the correct results.  
